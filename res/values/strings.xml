@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Message Filter App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_all">Select all filters</string>
+    
+    <string name="save">Save</string>
+    <string name="filter_now">Filter now</string>
+    <string name="clear_message">Clear messages</string>
+    <string name="message_input_hint">Please enter your text here!</string>
+    
+    <string name="empty_input">Please type your message first!</string>
+    <string name="no_content_filtered">No content filtered. Go to settings to check your filter settings.</string>
+    
+    <string-array name="filter_list">
+        <item >Emoticons</item>
+        <item >Links</item>
+        <item >Mentions</item>
+    </string-array>
+    
+
+</resources>
